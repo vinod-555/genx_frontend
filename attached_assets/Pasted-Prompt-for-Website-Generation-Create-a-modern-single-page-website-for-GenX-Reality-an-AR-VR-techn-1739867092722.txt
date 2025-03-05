@@ -1,0 +1,106 @@
+Prompt for Website Generation
+
+Create a modern, single-page website for GenX Reality, an AR/VR technology company focused on accessibility and affordability. The design should be sleek, highly interactive, and feature a dark theme with neon green (#00FF00) accents. The site must be fully responsive with smooth animations and a polished user experience. The codebase should be clean, modular, and semantic, using HTML, CSS, and JavaScript, with clear placeholders for easy content customization.
+
+Design & Functional Requirements
+1. Hero Section
+Full-screen dynamic background: Looping 3D animation or video showcasing an AR/VR product demo.
+Headline:
+"GenX Reality: Making AR/VR Accessible and Affordable for All." (Bold, center-aligned, high-contrast typography).
+Subheading:
+"Unlocking the Transformative Potential of AR/VR Through Innovation and Accessibility."
+Brief Description:
+GenX Reality is dedicated to breaking down the cost and accessibility barriers that prevent widespread VR adoption.
+Low-cost, high-performance VR headsets designed for education, healthcare, training, and more.
+Call-to-Action (CTA):
+"Explore Our Solutions" – Neon green button with hover effect (subtle glow + smooth scale-up).
+Typography: Montserrat (Bold for headings, Medium for body text).
+2. About Us (Updated Version)
+Background: Full-width image overlay (darkened for contrast).
+Headline: "GenX Reality: Bridging the Digital Divide with Accessible VR Technology."
+Why We Exist:
+We saw firsthand how high costs and limited accessibility were preventing VR from reaching its full potential. We are committed to democratizing access to immersive learning experiences and unlocking new use cases for VR across diverse sectors.
+Core Principles (animated icons or interactive text blocks):
+Accessibility – Making VR available to everyone.
+Innovation – Advancing VR technology for real-world applications.
+Versatility – Expanding VR beyond gaming.
+Affordability – Ensuring cost-effective solutions without compromising performance.
+Animations:
+Each core principle icon pulses slightly when hovered over.
+Subtle fade-in effects when scrolling into view.
+Interactive hover effect where each principle expands slightly with a soft glow.
+CTA: "Learn More About Our Mission" (Interactive scroll trigger).
+3. Innovations & Product Showcase
+Interactive Feature Cards (Hover-triggered zoom + green glow):
+"Low-Cost, High-Performance VR" (Image + brief technical specs).
+"Customizable Solutions for Education, Healthcare, and Training" (Image + software capabilities overview).
+Embedded 3D Model Viewer (Three.js placeholder):
+Hardware rotation on drag (touch-friendly).
+Technical Highlights (Minimalist, icon-supported grid layout):
+Dual Displays | AI Integration | Superior Thermal Efficiency
+Animations:
+Feature Cards: Cards slightly rotate and glow when hovered over.
+3D Model Viewer: Responsive drag interactions with smooth transitions.
+Text Content: Scroll-triggered fade-in effects.
+CTA Options:
+"Request a Demo" / "Pre-Order Now"
+4. How It Works
+Interactive Flowchart (CSS/JS animated, smooth-scroll enabled):
+Steps: Cost-efficient components → Seamless software integration → End-user experience.
+Hover-triggered tooltips with brief descriptions.
+Animations:
+Each step in the flowchart expands and becomes highlighted on hover.
+A glowing progress line follows the user’s scroll as they move through the steps.
+5. Future Vision
+Animated Timeline (Milestone grid format):
+Placeholder for 2024–2026 roadmap, showcasing key R&D advancements.
+Emphasis on GenX Reality’s role in bridging the digital divide through VR accessibility.
+Animations:
+Each milestone fades in with a pop effect as the user scrolls.
+Hovering over a milestone expands it slightly with a glowing border.
+CTA: "Stay Updated" (Email signup form with inline validation feedback).
+6. Join Us
+Dual CTAs:
+"Invest in GenX"
+"Develop with Us" (Gradient buttons).
+Animations:
+Buttons change gradients and scale up slightly on hover.
+7. Blog Section (New Addition)
+Card-Based Blog Layout:
+Each blog post is represented as a card with an image, heading, and tagline.
+Example posts:
+"Solving the Cost and Accessibility Barriers of VR: GenX Reality’s Approach."
+"VR for Education: Transforming Learning in Emerging Markets."
+"What Makes GenX Reality’s Immersive Technology Unique?"
+Animations:
+Cursor-based interactions: When hovering over a blog card, it tilts slightly toward the mouse pointer.
+Glowing effect on hover to match the neon aesthetic.
+Subtle image zoom-in effect on hover.
+8. Contact Section
+Minimalist Contact Form:
+Fields: Name, Email, Message (Green focus borders, inline error validation).
+Social Icons: LinkedIn, GitHub placeholders.
+Animations:
+Input fields glow slightly when selected.
+Form fields animate into view as the user scrolls.
+Technical Specifications & Implementation Guidelines
+Color Palette
+Primary: Black (#000000)
+Accent: Neon Green (#00FF00)
+Text Contrast: White (#FFFFFF)
+Animations & Effects
+Hover states: Smooth scaling, glowing, and color transitions.
+Scroll-triggered animations: Section reveals, parallax backgrounds.
+Cursor-based interactions: Dynamic tilt effects for the blog section.
+Mobile-First Design
+Collapsible navigation menu
+Touch-friendly 3D viewer
+Fluid, adaptive grid layouts
+Asset Handling
+Well-commented placeholders for images, videos, and 3D models.
+Editable text classes for seamless content updates.
+Deliverables
+Clean, modular HTML/CSS/JavaScript code with structured comments.
+Fully responsive breakpoints optimized for all devices.
+Instructions for replacing placeholders (text, images, 3D models).
+Minimal external dependencies (Only Three.js for 3D rendering).
